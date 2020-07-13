@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">MySubmissionOne</string>
+    <string name="name_user">Name user</string>
+    <string name="age_user">Age user</string>
+    <string name="this_is_description">This is description</string>
+    <string name="tv_user_received">TV User Received</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+
+    <string-array name="data_name">
+        <item>Rian Cahyadi</item>
+        <item>Sandi Setiawan</item>
+        <item>Sobar Fazri</item>
+        <item>Irvan Ali</item>
+        <item>M. Rizqi Maulidi</item>
+        <item>Andrian Saputra</item>
+        <item>Taufik Prihandoyo</item>
+        <item>Dedod Junior</item>
+        <item>Yusup Maulana</item>
+        <item>Gumelar Laksana Yogas</item>
+    </string-array>
+
+    <array name="data_avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </array>
+
+    <string-array name="data_age">
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea exercitationem iste quibusdam sit tempora!</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>Google inc</item>
+        <item>Apple inc</item>
+        <item>Google inc</item>
+        <item>Apple inc</item>
+        <item>Google inc</item>
+        <item>Apple inc</item>
+        <item>Google inc</item>
+        <item>Apple inc</item>
+        <item>Google inc</item>
+        <item>Apple inc</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Menlo park, California, Amerika Serikat</item>
+        <item>Cupertino, California, Amerika Serikat</item>
+        <item>Menlo park, California, Amerika Serikat</item>
+        <item>Cupertino, California, Amerika Serikat</item>
+        <item>Menlo park, California, Amerika Serikat</item>
+        <item>Cupertino, California, Amerika Serikat</item>
+        <item>Menlo park, California, Amerika Serikat</item>
+        <item>Cupertino, California, Amerika Serikat</item>
+        <item>Menlo park, California, Amerika Serikat</item>
+        <item>Cupertino, California, Amerika Serikat</item>
+    </string-array>
+
+    <string-array name="data_repository">
+        <item>Warehouse Google</item>
+        <item>Warehouse Apple</item>
+        <item>Warehouse Google</item>
+        <item>Warehouse Apple</item>
+        <item>Warehouse Google</item>
+        <item>Warehouse Apple</item>
+        <item>Warehouse Google</item>
+        <item>Warehouse Apple</item>
+        <item>Warehouse Google</item>
+        <item>Warehouse Apple</item>
+    </string-array>
+
+    <string-array name="data_follower">
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>80</item>
+        <item>75</item>
+        <item>25</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
